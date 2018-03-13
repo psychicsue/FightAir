@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FightAir</string>
+    <string name="connect">Switch on bluetooth</string>
+    <string name="connect_to_see_how_polluted_is_your_environment">Connect to see how polluted is your environment!
+    </string>
+    <string name="connect_to_device">Connect to device</string>
+    <string name="pm_2_5">PM 2.5</string>
+</resources>
